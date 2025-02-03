@@ -1,0 +1,15 @@
+/workspaces/helloCS690versioning/hello/bin/Debug/net8.0/hello
+/workspaces/helloCS690versioning/hello/bin/Debug/net8.0/hello.deps.json
+/workspaces/helloCS690versioning/hello/bin/Debug/net8.0/hello.runtimeconfig.json
+/workspaces/helloCS690versioning/hello/bin/Debug/net8.0/hello.dll
+/workspaces/helloCS690versioning/hello/bin/Debug/net8.0/hello.pdb
+/workspaces/helloCS690versioning/hello/obj/Debug/net8.0/hello.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/helloCS690versioning/hello/obj/Debug/net8.0/hello.AssemblyInfoInputs.cache
+/workspaces/helloCS690versioning/hello/obj/Debug/net8.0/hello.AssemblyInfo.cs
+/workspaces/helloCS690versioning/hello/obj/Debug/net8.0/hello.csproj.CoreCompileInputs.cache
+/workspaces/helloCS690versioning/hello/obj/Debug/net8.0/hello.sourcelink.json
+/workspaces/helloCS690versioning/hello/obj/Debug/net8.0/hello.dll
+/workspaces/helloCS690versioning/hello/obj/Debug/net8.0/refint/hello.dll
+/workspaces/helloCS690versioning/hello/obj/Debug/net8.0/hello.pdb
+/workspaces/helloCS690versioning/hello/obj/Debug/net8.0/hello.genruntimeconfig.cache
+/workspaces/helloCS690versioning/hello/obj/Debug/net8.0/ref/hello.dll
